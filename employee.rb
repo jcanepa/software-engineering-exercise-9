@@ -1,5 +1,5 @@
 class Employee
   def prepare(bike)
-    bike.repair()
+    bike.maintenence()
   end
 end
