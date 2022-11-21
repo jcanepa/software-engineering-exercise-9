@@ -1,6 +1,6 @@
 class BmxBike
 
-  def repair
+  def repair()
     puts 'Cleaning...'
   end
 
@@ -8,7 +8,7 @@ end
 
 class RoadBike
 
-  def repair
+  def repair()
     puts 'Lubricating gears...'
   end
 
@@ -16,7 +16,7 @@ end
 
 class MountainBike
 
-  def repair
+  def repair()
     puts 'Adjusting suspension...'
   end
 
@@ -24,7 +24,7 @@ end
 
 class Tricycle
 
-  def repair
+  def repair()
     puts 'Adjusting seat...'
   end
 
