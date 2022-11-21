@@ -3,7 +3,7 @@
 require_relative 'employee'
 require_relative 'bike'
 
-bikes = [BmxBike.new, RoadBike.new, MountainBike.new, Tricycle.new]
+bikes = [BmxBike.new, RoadBike.new, MountainBike.new, Tricycle.new, Foocycle.new]
 
 employee = Employee.new
 

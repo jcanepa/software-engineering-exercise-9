@@ -29,3 +29,5 @@ class Tricycle
   end
 
 end
+
+class Foocycle; end
